@@ -21,7 +21,7 @@ namespace PatientAppointmentSystem
         static void Main(string[] args)
         {
             bool running = true;
-
+            Console.WriteLine("Welcome")
             while (running)
             {
                 Console.Clear();
